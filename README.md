@@ -1,2 +1,1 @@
-# webgl-globe
-webgl-globe
+No dependecies. Browser needs to support WebGL.
